@@ -1,7 +1,7 @@
 from math import sqrt
 
 
-total_of_numbers = 25
+total_of_numbers = 10000
 simple_numbers_flags = [True] * total_of_numbers
 simple_numbers_flags[0] = False
 simple_numbers_flags[1] = False
